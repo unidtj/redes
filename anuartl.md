@@ -15,3 +15,9 @@
  4. Alonso
  5. Cesar
  6. Marixza
+
+| 12 mayo  | 19 mayo    | 26 mayo   | 2 junio   | 9 junio  |
+|----------|------------|-----------|-----------|----------|
+| markdown | cablecitos | firewall  | routing   | VoIP     |
+| linux    | dominio    | webfilter | switching | Wireless |
+| Hacking  | fiber      | LTE 5G    |           |          |
