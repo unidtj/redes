@@ -1,8 +1,5 @@
 
 ### Por Alonso Cervantes
-
-!
-
 | Markdown Links  |  
 |---|
 | https://stackedit.io/app#  |  
