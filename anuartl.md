@@ -20,4 +20,4 @@
 |----------|------------|-----------|-----------|----------|
 | markdown | cablecitos | firewall  | routing   | VoIP     |
 | linux    | dominio    | webfilter | switching | Wireless |
-| Hacking  | fiber      | LTE 5G    |           |          |
+| Hacking  | 😄         | 😁        | 🤘        | 😈       |
