@@ -8,3 +8,10 @@
 *Cel: 664 151 96 90*
 
 ![](https://pbs.twimg.com/profile_images/486197827815481344/QtT1O4AB_400x400.png)
+
+1. Juan
+ 2. Asened
+ 3. Leonardo
+ 4. Alonso
+ 5. Cesar
+ 6. Marixza
