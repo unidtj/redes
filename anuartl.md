@@ -21,3 +21,7 @@
 | markdown | cablecitos | firewall  | routing   | VoIP     |
 | linux    | dominio    | webfilter | switching | Wireless |
 | Hacking  | 😄         | 😁        | 🤘        | 😈       |
+
+```Programa Hola mundo
+print ("Hola mundo")
+```
