@@ -14,4 +14,4 @@
 | :relieved:            | :triumph: | :cop:                 | :heart_eyes_cat: | :pig2:    |
 
  - Enlace web
- ´´´https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+ (https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
